@@ -1,4 +1,4 @@
-streamlit
+streamlit>=1.50
 fast-flights
 typing_extensions
 requests
